@@ -7,7 +7,7 @@
 ## 关联项目
 前端Github项目：  
 前端推荐使用Electron构建app，或者使用PWA下载到设备使用，无需部署。  
-前端Github项目👉[https://github.com/buduan/CPU-Lottery-Tool-FrontEnd/edit/main/README.md](https://github.com/buduan/CPU-Lottery-Tool-FrontEnd/edit/main/README.md)  
+前端Github项目👉[https://github.com/buduan/CPU-Lottery-Tool-FrontEnd/](https://github.com/buduan/CPU-Lottery-Tool-FrontEnd/)  
 后台前端Github项目👉[https://github.com/CompPsyUnion/GiftDrewAdminFE/tree/main](https://github.com/CompPsyUnion/GiftDrewAdminFE/tree/main)   
 后台可部署到腾讯云静态网站托管服务等类似服务中。  
 
