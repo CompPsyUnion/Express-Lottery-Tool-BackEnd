@@ -1,4 +1,5 @@
 # 简单的抽奖工具后端
+  🌍 **中文** | [English](/README_en.md) 
 
 使用Node.js + MongoDB构建 支持运行在腾讯云Serverless服务  
 要用的前一天晚上，两个人熬夜肝出来的，所以admin的api也没做鉴权，后续会加。  
