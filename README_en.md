@@ -1,6 +1,9 @@
 # Simple Lottery Tool Backend
 🌍 [中文](/README.md) | **English**
 
+This tool has been **fully updated** and archived.
+A remastered version has now been developed with richer features, including backend management, multi-event configuration, and more: [https://github.com/buduan/Lottery-Tool-Backend](https://github.com/buduan/Lottery-Tool-Backend)
+
 Built with Node.js + MongoDB, it supports running on Tencent Cloud's Serverless service.  
 We pulled an all-nighter the day before we needed it, so the admin API doesn't have authentication yet, but we'll add it later.  
 Please give us a Star～✨
